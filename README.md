@@ -6,5 +6,7 @@ WP-LINK是一款基于ESP8266主控的WIFI转TLL串口设备
 
 采用UPD传输协议
 
-兼容CUAV Hfight / Mission Planner / APMPlanner2 / QGroundControl 地面砖
+兼容CUAV Hfight / Mission Planner / APMPlanner2 / QGroundControl 地面站
+
+距离可达 400米\* 
 
