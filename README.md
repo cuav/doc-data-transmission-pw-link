@@ -12,7 +12,7 @@ WP\_LINK是一款WIFI转串口模块，只需要通过电脑或者手机的WIFI
 
 兼容电脑地面站：Mission Planner、QGC
 
-手机地面站：tower、CUAV  Hflight、QGC
+手机地面站：CUAV  Hflight、QGC、Tower
 
 ## 系统框架
 
