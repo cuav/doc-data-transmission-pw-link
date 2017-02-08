@@ -43,13 +43,14 @@ WP\_LINK是一款WIFI转串口模块，只需要通过电脑或者手机的WIFI
 | 存储温度 | 10%-90%RH（不凝结） |
 | 存储湿度 | 5%-90%RH（不凝结） |
 
+### 接口定义
 
-
-###接口定义
-
-
-###默认SSID及密码
 ---
-默认SSID为CUAVWLINK_XXXXXX (XXXXXX为MAC后缀6位)
-默认密码为（小写）： cuavwlink      
+
+### 默认SSID及密码
+
+---
+
+默认SSID为CUAVWLINK\_XXXXXX \(XXXXXX为MAC后缀6位\)  
+默认密码为（小写）： cuavwlink
 
