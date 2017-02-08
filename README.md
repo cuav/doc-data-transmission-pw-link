@@ -47,6 +47,8 @@ WP\_LINK是一款WIFI转串口模块，只需要通过电脑或者手机的WIFI
 
 ---
 
+### ![](/assets/data.png)
+
 ### 默认SSID及密码
 
 ---
