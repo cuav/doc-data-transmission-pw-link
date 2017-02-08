@@ -12,13 +12,17 @@
 
 CUAVWlink\_XXXXXX  键入密码cuavwlink
 
-
-
 ![](/assets/password.png)
 
 打开Hflight软件
 
-在软件下面选择连接方式  UDP  然后点连接
+在软件下面选择连接方式  UDP  
+
+![](/assets/hfudp.png)
+
+连接前，先点击UDP服务器端口，检查端口是否为14550
+
+然后再点连接
 
 既可连接上飞控
 
