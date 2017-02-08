@@ -10,6 +10,8 @@
 
 手机搜索WP-LINK网络
 
+CUAVWlink\_XXXXXX  键入密码cuavwlink
+
 
 
 ![](/assets/password.png)
