@@ -40,23 +40,23 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)
 
-![](/assets/WP-LINK2.jpg)等待弹出对话框
 
-点 查询按钮 即可获取到 SSID 密码 信道等信息
+
+
+4、点击查询按钮
+
+5、获取到信息
+
+6、在对应的框修改内容，点确认即可修改生效
+
+
 
 ![](/assets/WP-LINK3.png)
 
