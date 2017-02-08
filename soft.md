@@ -10,15 +10,13 @@
 
 手机搜索WP-LINK网络
 
+
+
+![](/assets/password.png)
+
 打开Hflight软件
 
 在软件下面选择连接方式  UDP  然后点连接
 
 既可连接上飞控
-
-![](/assets/password.png)
-
-
-
-
 
