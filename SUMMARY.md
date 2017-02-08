@@ -1,5 +1,6 @@
 # Summary
 
 * [WP-LINK使用手册](javascript:;)
-    * [概述](README.md)
+  * [概述](README.md)
+  * [硬件安装](hardware.md)
 
