@@ -32,5 +32,5 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ---
 
-
+进入系统 菜单-长按无线图标5秒![](/assets/WP-LINK2.jpg)
 
