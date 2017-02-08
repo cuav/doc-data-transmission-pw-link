@@ -32,6 +32,10 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ---
 
+```
+注意不要在飞行过程中修改参数，以免出现异常
+```
+
 1、弹出菜单栏
 
 2、点击系统按钮
@@ -40,23 +44,11 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ![](/assets/WP-LINK2.jpg)
 
-
-
-
-
-
-
-
-
-
-
 4、点击查询按钮
 
 5、获取到信息
 
 6、在对应的框修改内容，点确认即可修改生效
-
-
 
 ![](/assets/WP-LINK3.png)
 
