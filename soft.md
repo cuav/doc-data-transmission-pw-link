@@ -32,7 +32,31 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ---
 
-进入系统 菜单-长按无线图标5秒![](/assets/WP-LINK2.jpg)等待弹出对话框
+1、弹出菜单栏
 
+2、点击系统按钮
 
+3、长按无线图标，会弹出对话框
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)
+
+![](/assets/WP-LINK2.jpg)等待弹出对话框
+
+点 查询按钮 即可获取到 SSID 密码 信道等信息
+
+![](/assets/WP-LINK3.png)
 
