@@ -51,5 +51,5 @@ WP\_LINK是一款WIFI转串口模块，只需要通过电脑或者手机的WIFI
 ###默认SSID及密码
 ---
 默认SSID为CUAVWLINK_XXXXXX (XXXXXX为MAC后缀6位)
-默认密码为： cuavwlink
+默认密码为（小写）： cuavwlink      
 
