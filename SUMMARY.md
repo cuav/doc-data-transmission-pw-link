@@ -9,4 +9,4 @@
   * [硬件安装](hardware.md)
   * [软件使用](soft.md)
       * [CUAV Hfight]((soft.md#CUAV Hflight)
-      * [修改SSID及密码]((soft.md#CUAV Hflight)
+      * [修改SSID及密码]((soft.md#修改SSID及密码)
