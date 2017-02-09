@@ -8,4 +8,6 @@
       * [默认SSID及密码](README.md#默认SSID及密码)
   * [硬件安装](hardware.md)
   * [软件使用](soft.md)
-      * [CUAV Hfight]((soft.md#系统框架)
+      * [CUAV Hfight]((soft.md#CUAV Hflight
+
+)
