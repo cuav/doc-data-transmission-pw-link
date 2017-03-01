@@ -8,7 +8,7 @@ WP\_LINK是一款WIFI转串口模块，只需要通过电脑或者手机的WIFI
 
 使用内置天线距离可达50米\*，外置天线300-500米\*.
 
-通过CUAV地面站Hflight 即可设置WIFI频道、名称及密码
+通过CUAV地面站Hflight 可以设置WIFI频道、名称及密码
 
 兼容电脑地面站：Mission Planner、QGC
 
