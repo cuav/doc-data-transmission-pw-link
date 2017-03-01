@@ -50,3 +50,5 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ![](/assets/WP-LINK3.png)
 
+7、建议使用11以上的频道，避免遥控器被干扰。
+
