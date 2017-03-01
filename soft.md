@@ -24,7 +24,7 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ![](/assets/14550udp.png)
 
-然后再点连接，等待数秒连接上飞控
+然后再点连接，等待数秒就会成功连接上飞控板
 
 ### 修改SSID及密码
 
