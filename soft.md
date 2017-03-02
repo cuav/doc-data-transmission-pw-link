@@ -6,9 +6,9 @@
 
 下载地址：[http://fw.cuav.net](http://fw.cuav.net)
 
-将WP-LINK与飞控连接好并通电
+将PW-LINK与飞控连接好并通电
 
-手机搜索WP-LINK网络
+手机搜索PW-LINK网络
 
 CUAVWlink\_XXXXXX  键入密码cuavwlink
 
