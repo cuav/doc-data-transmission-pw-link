@@ -1,18 +1,18 @@
 # 软件使用说明
 
-### CUAV Hflight
+### HFlight 连接方式
 
 ---
 
-下载地址：[http://fw.cuav.net](http://fw.cuav.net)
+**HFlight** 安卓手机地面站是 **雷讯（CUAV）** 官方推广的手机地面站，完美地兼容本公司所有产品，欢迎广大模友下载使用。软件下载链接：[HFlight](http://fw.cuav.net/HFlight)。
 
-将PW-LINK与飞控连接好并通电
+对于 PW-Link 无线数传模块，HFlight 获取和显示飞控信息的步骤如下：
 
-手机搜索PW-LINK网络
+ 1. 确认 PW-Link 与 Pix 飞控已经连接正常；
 
-CUAVWlink\_XXXXXX  键入密码cuavwlink
-
-![](/assets/password.png)
+ 2. 手机搜索 WiFi 网络，连接名称为：CUAVWlink_XXXXXX 的网络，操作如下图；
+ 
+  ![](/images/password.png)
 
 打开Hflight软件
 
@@ -30,8 +30,7 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 ---
 
-```
-注意1、弹出菜单栏
+1、弹出菜单栏
 
 2、点击系统按钮
 
@@ -49,3 +48,4 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 
 7、建议使用11以上的频道，避免遥控器被干扰。
 
+> 注意：请不要在无人机的飞行过程中修改配置，以免出现通信异常。

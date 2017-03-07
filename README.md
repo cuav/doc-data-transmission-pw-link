@@ -45,6 +45,6 @@ PW-Link 型号数据传输模块，即为 2.4G 无线数据透传模块。具有
 
 PW-Link 整体通信方式如图：
 
- ![](/images/wp-link.png)
+ ![](images/pwlink-connected-description.png)
  
 > 如果产品教程出现了错误，请反馈。作者邮箱：xiepeng@cuav.net
