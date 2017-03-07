@@ -1,13 +1,9 @@
 # Summary
 
-* [PW-Link文档](module-description.md)
-  * [概述](README.md)
-    * [系统框架](README.md#系统框架)
-    * [产品规格](README.md#规格)
-    * [接口定义](README.md#接口定义)
-    * [默认SSID及密码](README.md#默认SSID及密码)
-  * [硬件安装](hardware.md)
-  * [软件使用](soft.md)
+* [PW-Link 文档](module-description.md)
+  * [硬件连接说明](hardware.md)
+  * [软件使用说明](soft.md)
     * [\[CUAV Hfight\]\(soft.md\#CUAV Hflight\)](cuav-hfight\(soft.mdcuav-hflight\).md)
     * [修改SSID及密码](soft.md#修改SSID及密码)
+  * [更新程序说明]
 
