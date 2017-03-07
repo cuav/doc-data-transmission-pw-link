@@ -12,17 +12,15 @@
 
  2. 手机搜索 WiFi 网络，连接名称为：CUAVWlink_XXXXXX 的网络，操作如下图；
  
-  ![](/images/password.png)
+  ![](images/pwlink-net-connected.png)
 
-打开Hflight软件
-
-在软件下面选择连接方式  UDP
-
-![](/assets/hfudp.png)
+ 3. 打开 HFlight 手机软件，选择 UDP 连接方式，操作如图；
+  
+  ![](/images/hfudp.png)
 
 连接前，先点击UDP服务器端口，检查端口是否为14550
 
-![](/assets/14550udp.png)
+![](/images/14550udp.png)
 
 然后再点连接，等待数秒就会成功连接上飞控板
 
