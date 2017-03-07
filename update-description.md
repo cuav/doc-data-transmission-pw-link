@@ -10,7 +10,7 @@
  
   ![](/images/pwlink-update-config.png)
   
- 3. 点击 **Operation** 选项，
+ 3. 点击 **Operation** 选项;
   
   ![](/images/pwlinnk-update-operation.png)
  
