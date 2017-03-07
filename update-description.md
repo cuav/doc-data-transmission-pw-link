@@ -10,8 +10,12 @@
  
   ![](/images/pwlink-update-config.png)
   
- 3. 点击 **Operation** 选项;
+ 3. 点击 **Operation** 选项，使用 **烧录线** 将 TTL 板与 PW-Link 模块相连，选择对应的端口，点击 **Flash** 按钮;
   
-  ![](/images/pwlinnk-update-operation.png)
+  ![](/images/pwlink-update-operation.png)
+  
+ 4. 烧录成功提示图如下；
+ 
+  ![](/images/pwlink-update-msg.png)
  
 > 目前最新版本为：1.6.0，增加 IO0 短接 GND 超过 5S 即恢复网络默认设置。
