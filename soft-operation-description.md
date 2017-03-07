@@ -10,15 +10,15 @@
 
  1. 确认 PW-Link 与 Pix 飞控已经连接正常；
 
- 2. 手机搜索 WiFi 网络，连接名称为：CUAVWlink_XXXXXX 的网络，操作如下图；
+ 2. 手机搜索 WiFi 网络，连接名称为：**CUAVWlink_XXXXXX** 的网络，操作如下图；
  
   ![](images/pwlink-net-connected.png)
 
- 3. 打开 HFlight 手机软件，选择 UDP 连接方式，操作如图；
+ 3. 打开 HFlight 手机软件，选择 **UDP** 连接方式，操作如图；
   
   ![](images/pwlink-connected-type.png)
 
- 4. 确认 UDP 服务器通信端口，检查端口是否为 14550；
+ 4. 确认 UDP 服务器通信端口，检查端口是否为 **14550**；
  
   ![](/images/pwlink-udp-setting.png)
 
@@ -37,3 +37,21 @@ PW-Link 配置窗口的具体操作步骤是，首先点击查询按钮获取 PW
  ![](/images/pwlink-net-cfg2.png)
 
 > 注意：请不要在无人机的飞行过程中修改配置，以免出现通信异常。
+
+### Mission Planner 连接方式
+
+---
+
+电脑端的地面站软件以 Mission Planner 进行操作说明。具体步骤如下：
+
+ 1. 电脑使用无线网卡连接网络 **CUAVWlink_XXXXXX**，密码 **cuavwlink**；
+ 
+ 2. 打开 Mission Planner 软件，选择右上角选项 **UDP** 方式，点击连接按钮；
+ 
+ 3. 最后，在弹出的端口编辑栏输入 **14550**，点击确认；
+ 
+ 4. 等待数据接收完成；
+ 
+> 注意：有部分用户反映，电脑已经连接上了 PW-Link 网络，但是 Mission Planner 无法接收到数据。出现这个问题的原因是因为你禁用了网络权限导致的。 解决办法是，打开 **控制面板** -> **Windows 防火墙** -> **允许应用通过防火墙进行通信** -> **打开 MP 全部网络权限**。
+ 
+
