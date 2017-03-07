@@ -1,6 +1,6 @@
 # Summary
 
-* [PW-LINK使用手册](javascript:;)
+* [PW-LINK使用手册](module-description.md)
   * [概述](README.md)
     * [系统框架](README.md#系统框架)
     * [产品规格](README.md#规格)
