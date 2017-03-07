@@ -1,6 +1,6 @@
 # 更新程序说明
 
-目前对于 PW-Link 模块并没有提供在线更新程序，需要用户手动更新程序。需要下载 [烧录软件](http://fw.cuav.net/pc/) 和 [最新版程序包](http://fw.cuav.net/pc/)。具体的烧录步骤如下：
+目前对于 PW-Link 模块并没有提供在线更新程序，需要用户手动更新程序。需要下载 [烧录软件](http://fw.cuav.net/pc/ESP8266Flasher.rar) 和 [最新版程序包](http://fw.cuav.net/pc/wifilink.rar)。具体的烧录步骤如下：
  
  1. 运行烧录软件，点击 **Advanced** 选项，修改对应选项如图；
  
