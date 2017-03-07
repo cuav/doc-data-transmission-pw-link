@@ -32,12 +32,8 @@ HFlight 提供了修改 PW-Link 网络配置的窗口，允许修改网络的 **
  
  ![](/images/pwlink-net-cfg1.png)
 
-4、点击查询按钮
+PW-Link 配置窗口的具体操作步骤是，首先点击查询按钮获取 PW-Link 模块的网络信息，获取成功后，即可修改对应的选项即可。操作如图所示：
 
-5、获取到信息
-
-6、在对应的框修改内容，点确认即可修改生效
-
-![](/images/pwlink-net-cfg2.png)
+ ![](/images/pwlink-net-cfg2.png)
 
 > 注意：请不要在无人机的飞行过程中修改配置，以免出现通信异常。
