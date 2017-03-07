@@ -1,10 +1,8 @@
 # 软件使用说明
 
-## WP-LINK地面站连接教程
+### CUAV Hflight
 
 ---
-
-### CUAV Hflight
 
 下载地址：[http://fw.cuav.net](http://fw.cuav.net)
 
@@ -33,10 +31,7 @@ CUAVWlink\_XXXXXX  键入密码cuavwlink
 ---
 
 ```
-注意不要在飞行过程中修改参数，以免出现异常
-```
-
-1、弹出菜单栏
+注意1、弹出菜单栏
 
 2、点击系统按钮
 
