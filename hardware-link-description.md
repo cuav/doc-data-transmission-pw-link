@@ -1,8 +1,10 @@
 # 硬件连接说明
 
-### PW-Link 硬件接口定义 
+### PW-Link 硬件接口定义
 
 ---
+
+### ![](/assets/pw-link2.png)
 
 ### PixHack 飞控连接方式
 
