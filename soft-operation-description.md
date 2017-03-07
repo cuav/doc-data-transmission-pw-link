@@ -18,7 +18,7 @@
   
   ![](images/pwlink-connected-type.png)
 
- 4. 确认 UDP 服务器通信端口，检查端口是否为 14550;
+ 4. 确认 UDP 服务器通信端口，检查端口是否为 14550；
  
   ![](/images/pwlink-udp-setting.png)
 
