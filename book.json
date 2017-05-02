@@ -18,7 +18,10 @@
     "theme-cuav": {
       "showGitBookLink": false,
       "navbar": {
-          "navAjaxUrl": "/nav.json"
+          "navAjaxUrl": "/nav.json",
+          "brand": {
+             "url": "/"
+          }
       }
     }
   }
