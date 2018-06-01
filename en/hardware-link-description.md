@@ -1,26 +1,25 @@
-# 硬件连接说明
+# hardware connection description
 
-### PW-Link 硬件接口定义
+### PW-Link Hardware Interface Definitions
 
 ---
 
 ### ![](/assets/pw-link2.png)
 
-### PixHack 飞控连接方式
+### PixHack Flight Control Connection Method
 
 ---
 
-将PW\_LINK的DATA数据接口（MX1.25-5P）接口  插入到 PixHack 飞控的 OSD接口或者RADIO接口 既可
+Insert the PW\_LINK DATA data interface (MX1.25-5P) interface into the PIXHack's OSD interface or RADIO interface.
 
-### PixHawk 飞控连接方式
-
----
-
-将PW\_LINK的DATA数据接口（MX1.25-5P）接口  插入到 PixHawk 飞控的TELEM1或者TELEM2接口连接 既可
-
-### PixHack NANO 飞控连接方式
+### PixHawk Flight Control Connection
 
 ---
 
-将PW\_LINK的DATA数据接口（MX1.25-5P）接口  插入到 PixHack  nano飞控的 OSD接口或者RADIO接口 既可
+Insert the PW\_LINK DATA data interface (MX1.25-5P) connector into the TELEM1 or TELEM2 interface of the PixHawk flight controller.
 
+### PixHack NANO Flight Control Connection Method
+
+---
+
+Insert PW\_LINK's DATA data interface (MX1.25-5P) interface into the PixHack nano's OSD or RADIO interface.
