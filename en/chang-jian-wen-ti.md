@@ -1,22 +1,19 @@
-### 一.连接异常中断
+### A connection is abnormally interrupted
 
-请检查天线及供电是否正常，如果正常请使用手机或者其他设备尝试连接，观察是否存在相同情况，
+Please check if the antenna and power supply are normal. If it is normal, please use a mobile phone or other device to try to connect and observe if there is the same situation.
 
-（由于有些pc网卡性能不高，接收能力弱，容易中断）。
-
----
-
-### 二.可以连接wifi，但连接不上电脑/手机地面站
-
-请按照软件使用说明检查设置是否正确，如正确请使用其他设备尝试连接，如可以连接，则检查电脑防火墙设置及wifi连接状态。如其他设备不能连接请检查飞控数传口是否正常。
+(Because some pc network card performance is not high, the receiving ability is weak, easy to break).
 
 ---
 
-### 三.忘记密码/恢复网络设置
+### 2. Can connect wifi, but not connect to computer/mobile ground station
 
-无按键版：IO0 短接 GND 超过 5S 即恢复网络默认配置的功能，蓝灯常亮或者熄灭表示恢复完成。切记不要同时短接和上电，这样是进入烧录程序模式。
-
-有按键版：上电后长按按键5s，即恢复网络默认配置的功能，蓝灯常亮或者熄灭表示恢复完成。切记不要同时短接和上电，这样是进入烧录程序模式。
+Please check the settings in accordance with the instructions for use of the software. If correct, please use other devices to try to connect. If it is possible to connect, check the firewall settings of the computer and the wifi connection status. If other equipment cannot be connected, check whether the flight control data transmission port is normal.
 
 ---
 
+### Three. Forgot password/recover network settings
+
+No button version: IO0 shorted GND over 5S is the function to restore the default configuration of the network. The blue light is on or off indicates that the recovery is completed. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
+
+There is a button version: long press the button 5s after power on, that is to restore the network's default configuration function, the blue light is always on or off indicates that the recovery is completed. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
