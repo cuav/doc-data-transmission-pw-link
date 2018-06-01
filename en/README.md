@@ -23,21 +23,21 @@ The PW-Link model data transmission module is a 2.4G wireless data transmission 
 | features | instruction |
 | :---: | :---: |
 | Wireless standards | IEEE 802.11g、IEEE 802.11b |
-| transmission speed | 11g：最高可达 54Mbps、11b：最高达 11Mbps |
-| 连接方式 | UDP：14550 |
-| 信道范围 | 1 - 13（默认 11 通道） |
-| 频率范围 | 2412 - 2472MHz |
-| 发射功率 | 18dbm |
-| 天线类型 | UFL 类型 |
-| 无线安全 | WPA/WPA2 安全机制 |
-| 通信协议 | 串口透明传输方式 |
-| 通信速率 | 57600 |
-| 工作电压 | 5V +- 0.25V |
-| 工作电流 | 100MA |
-| 工作温度 | -20 - 50°C |
-| 工作湿度 | 10% - 90%RH（不凝结） |
-| 存储温度 | -40 - 80°C |
-| 存储湿度 | 5% - 90%RH（不凝结） |
+| transmission speed | 11g：Maximum reach 54Mbps、11b：Maximum reach 11Mbps |
+| Link mode | UDP：14550 |
+| Channel range |1-13 (default 11 channels) |
+| frequency range  | 2412 - 2472MHz |
+| Transmit power | 18dbm |
+| Antenna type | UFL type |
+| Wireless security | WPA/WPA2 Security mechanism |
+| letter of agreement|Serial transparent transmission mode |
+| traffic rate | 57600 |
+|  working voltage | 5V +- 0.25V |
+|  working current  | 100MA |
+| working temperature | -20 - 50°C |
+| Working humidity| 10% - 90%RH（noncondensing） |
+| Storage temperature| -40 - 80°C |
+| Storage humidity | 5% - 90%RH（noncondensing） |
 ### PW-Link Product Summary
 
 ---
