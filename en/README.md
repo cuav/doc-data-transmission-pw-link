@@ -1,29 +1,29 @@
-# PW-Link
+#PW-Link
 
 ### ![](/assets/pw-link2.png)
 
-### PW-Link 产品说明
+### PW-Link Product Description
 
 ---
 
-PW-Link 型号数据传输模块，即为 2.4G 无线数据透传模块。具有以下使用优点：
+The PW-Link model data transmission module is a 2.4G wireless data transmission module. Has the following use advantages:
 
-* 高性能的网络通信处理器，ESP8266；
+* High performance network communications processor, ESP8266;
 
-* 简单快速且开销小的 UDP 的广播通信方式；
+* Simple and fast UDP broadcast communication with low overhead;
 
-* 手机各类移动设备通过 WiFi 模块可以快速连接使用；
+* Mobile phones of various types can be quickly connected through the WiFi module;
 
-* 应用于各种支持 UDP 通信的地面站软件；
+* Applied to various ground station software supporting UDP communication;
 
-### PW-Link 产品特性
+### PW-Link Product Features
 
 ---
 
-| 特性 | 说明 |
+| features | instruction |
 | :---: | :---: |
-| 无线标准 | IEEE 802.11g、IEEE 802.11b |
-| 传输速率 | 11g：最高可达 54Mbps、11b：最高达 11Mbps |
+| Wireless standards | IEEE 802.11g、IEEE 802.11b |
+| transmission speed | 11g：最高可达 54Mbps、11b：最高达 11Mbps |
 | 连接方式 | UDP：14550 |
 | 信道范围 | 1 - 13（默认 11 通道） |
 | 频率范围 | 2412 - 2472MHz |
@@ -38,18 +38,16 @@ PW-Link 型号数据传输模块，即为 2.4G 无线数据透传模块。具有
 | 工作湿度 | 10% - 90%RH（不凝结） |
 | 存储温度 | -40 - 80°C |
 | 存储湿度 | 5% - 90%RH（不凝结） |
-
-### PW-Link 产品总结
+### PW-Link Product Summary
 
 ---
 
-目前 PW-Link 数传模块分为 **内置天线** 和 **外置天线** 版本。内置天线版本仅仅适合 **PIX 飞控** 近距离的各项校准和调节参数使用，而外置天线版本经过多项实际测试所得出的合理传输距离是 **450** 米。使用电脑地面站 Mission Planner 进行长时间连接测试，数据传输信号的平均稳定性维持在 **90%** 以上。由于其 **体积小**、**传输距离远**、**数据稳定**、**连接方便** 的特点，十分适用于小型无人机几百米内的数传接收方式。
+At present, PW-Link data transmission module is divided into ** built-in antenna** and **external antenna** version. The built-in antenna version is only suitable for various calibration and adjustment parameters of the **PIX flight control ** close range, and the actual transmission distance of the external antenna version after many practical tests is **450** meters. Using the computer ground station Mission Planner for long-term connection tests, the average stability of the data transmission signal is maintained at more than **90%**. Due to its small size**, long distance**, stable data**, and easy-to-connect** features, it is ideally suited for digital receivers within a few hundred meters of a small drone.
 
-PW-Link 整体通信方式如图：
+PW-Link overall communication method as shown in figure:
 
 ![](images/pwlink-connected-description.png)
 
-> 如果产品教程出现了错误，请反馈。作者邮箱：xiepeng@cuav.net
-
+> If there is an error in the product tutorial, please give feedback. Author's E-mail: xiepeng@cuav.net
 
 
