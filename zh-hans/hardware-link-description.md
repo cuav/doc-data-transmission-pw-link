@@ -4,7 +4,7 @@
 
 ---
 
-### ![](/assets/pw-link2.png)
+### ![pw link2](../assets/pw-link2.png)
 
 ### PixHack 飞控连接方式
 
