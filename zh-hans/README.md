@@ -1,6 +1,6 @@
 # PW-Link
 
-### ![](/assets/pw-link2.png)
+### ![pw link2](../assets/pw-link2.png)
 
 ### PW-Link 产品说明
 
