@@ -30,7 +30,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 3. Open HFlight mobile software, select **UDP** connection mode, operation as shown in figure;
 
-![](images/pwlink-connected-type.png)
+![HFlight connected2](../assets/pwlink-connected-type.png)
 
 4. Confirm the UDP server communication port and check if the port is **14550**;
 
