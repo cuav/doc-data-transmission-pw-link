@@ -5,8 +5,8 @@
 
 ---
 
-* [use-tutorial](use-tutorial.md)
-* [load firmware.md](load-firmware.md.md)
+* [Use-tutorial](use-tutorial.md)
+* [Load firmware.md](load-firmware.md.md)
 
 
 
