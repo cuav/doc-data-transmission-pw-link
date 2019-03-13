@@ -14,12 +14,14 @@ Find the file with the same name on the right and click Open to set the file pat
 
 3. Click on the **Operation** option and use the ** burn line ** to connect the TTL board to your computer's usb (you can make a custom burn line to see the ttl board and the logo on the back of the pw\_link, and connect the gnd and 5v accordingly. , rx, tx cross-connect) Select the corresponding port \ (port can be viewed in the My Computer "device manager" port), hold down the data recovery module recovery button and power module, click the ** Flash** button;
 
-![](/images/pwlink-update-operation.png)
+![pwlink operation](../assets/pwlink-update-operation.png)
 
-![](/assets/WI2.jpg)
+![wtr2](../assets/wtr2.jpg)
+
 
 1. Prompt success map is as follows (Flash module blue LED will flash;
 
-![](/images/pwlink-update-msg.png)
+![pwlink update](../assets/pwlink-update-msg.png)
+
 
 > The latest version is now 2.0.0. After the module is running normally, IO0 is shorted to GND for more than 5 seconds to restore the network's default configuration. The blue light is on or off indicating that the recovery is complete. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
