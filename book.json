@@ -14,7 +14,7 @@
     "cuav-chapters",
     "-lunr",
     "-search",
-    "search-pro"
+    "search-pro",
   ],
   "pluginsConfig": {
     "theme-cuav": {
