@@ -44,7 +44,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 HFlight provides a window to modify the PW-Link network configuration, allowing you to modify the network's **name**, **password**,**channel** and **for version information**. The specific operation method is to first open the HFlight mobile phone software side menu, click the system button, enter the system settings interface, long press the network settings icon. The operation is shown in the figure:
 
-![](../assets/pwlink-net-cfg1.png)
+![HFlight Config](../assets/pwlink-net-cfg1.png)
 
 The specific operation procedure of the PW-Link configuration window is to first click the query button to obtain the network information of the PW-Link module. After the success, the corresponding options can be modified. The operation is shown in the figure:
 
