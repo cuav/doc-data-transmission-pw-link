@@ -6,7 +6,7 @@
 ---
 
 * [use-tutorial](use-tutorial.md)
-* [update-description.md](.md)
+* [load firmware.md](load-firmware.md.md)
 
 
 
