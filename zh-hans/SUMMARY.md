@@ -1,7 +1,7 @@
 # Summary
 
 * [PW-Link 文档](README.md)
-* [常见问题](common-problem.md.md)
+* [常见问题](common-problem.md)
 
 ---
 
