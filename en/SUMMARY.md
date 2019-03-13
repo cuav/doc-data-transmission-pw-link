@@ -1,7 +1,7 @@
 # Summary
 
-* [PW-Link document](README.md)
-* [common problem](common-problem.md)
+* [PW-Link Document](README.md)
+* [Common Problem](common-problem.md)
 
 ---
 
