@@ -18,7 +18,7 @@ Use the dedicated data cable to connect the line of PW\_LINK to the RADIO/TELEM 
 
 ---
 
-**HFlight** Android mobile phone ground station is a mobile ground station that is officially promoted by ** CUAV**. It is perfectly compatible with all of the company's products and is welcome to download and use. Software download link: [HFlight] (http://fw.cuav.net/apk/HFlight.apk).
+**HFlight** Android mobile phone ground station is a mobile ground station that is officially promoted by **CUAV**. It is perfectly compatible with all of the company's products and is welcome to download and use. Software download link: [HFlight] (http://fw.cuav.net/apk/HFlight.apk).
 
 For PW-Link wireless data transmission module, HFlight acquires and displays flight control information as follows:
 
