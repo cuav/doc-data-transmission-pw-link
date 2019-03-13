@@ -5,8 +5,7 @@
 
 ---
 
-* [hardware-link-description](hardware-link-description.md)
-* [soft-operation-description](soft-operation-description.md)
+* [use-tutorial](use-tutorial.md)
 * [update-description.md](update-description.md)
 
 
