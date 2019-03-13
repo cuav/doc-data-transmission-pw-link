@@ -1,6 +1,6 @@
 # update program description
 
-At present, no online update program is provided for the PW-Link module, requiring the user to manually update the program. Need to download [burn software] (http://fw.cuav.net/pc/ESP8266Flasher.rar) and [the latest version of the package] (http://fw.cuav.net/pc/wifilink.rar) and unzip Packages. The specific programming steps are as follows:
+At present, no online update program is provided for the PW-Link module, requiring the user to manually update the program. Need to download [burn software](http://fw.cuav.net/pc/ESP8266Flasher.rar) and [the latest version of the package](http://fw.cuav.net/pc/wifilink.rar) and unzip Packages. The specific programming steps are as follows:
 
 1. Run the burning software ESP8266Flasher.exe, click the **Advanced** option, modify the corresponding options as shown in the figure;
 
