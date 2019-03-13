@@ -34,7 +34,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 4. Confirm the UDP server communication port and check if the port is **14550**;
 
-![setting](../assets/pwlink-udp-setting.png)
+![HFlight connected3](../assets/pwlink-udp-setting.png)
 
 5. Finally, click the **Connect ** button. After successfully obtaining the flight control information, the data interface will be displayed.
 
