@@ -48,7 +48,8 @@ HFlight provides a window to modify the PW-Link network configuration, allowing 
 
 The specific operation procedure of the PW-Link configuration window is to first click the query button to obtain the network information of the PW-Link module. After the success, the corresponding options can be modified. The operation is shown in the figure:
 
-![pwlink](../assets/pwlink-net-cfg2.png)
+![HFlight Config2](../assets/pwlink-net-cfg2.png)
+
 
 > Note: Do not modify the configuration during the flight of the UAV to avoid abnormal communications.
 
