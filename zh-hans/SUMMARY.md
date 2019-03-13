@@ -6,5 +6,5 @@
 ---
 
 * [使用教程](use-tutorial.md)
-* [更新程序说明](update-description.md)
+* [更新程序说明](load-firmware.md)
 
