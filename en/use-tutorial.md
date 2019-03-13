@@ -26,7 +26,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 2. The mobile phone searches for the WiFi network, and the connection name is: **CUAVWlink\_XXXXXX**, and the operation is as follows;
 
-![connected](../assets/pwlink-net-connected.png)
+![HFlight connected](../assets/pwlink-net-connected.png)
 
 3. Open HFlight mobile software, select **UDP** connection mode, operation as shown in figure;
 
