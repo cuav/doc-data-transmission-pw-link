@@ -4,7 +4,7 @@
 
 ---
 
-### ![pw-link](/assets/pw-link2.png)
+### ![pw-link](../assets/pw-link2.png)
 
 How to connect to the flight control?
 
@@ -26,7 +26,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 2. The mobile phone searches for the WiFi network, and the connection name is: **CUAVWlink\_XXXXXX**, and the operation is as follows;
 
-![](images/pwlink-net-connected.png)
+![connected](../assets/pwlink-net-connected.png)
 
 3. Open HFlight mobile software, select **UDP** connection mode, operation as shown in figure;
 
@@ -34,7 +34,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 4. Confirm the UDP server communication port and check if the port is **14550**;
 
-![](/images/pwlink-udp-setting.png)
+![setting](../assets/pwlink-udp-setting.png)
 
 5. Finally, click the **Connect ** button. After successfully obtaining the flight control information, the data interface will be displayed.
 
@@ -44,11 +44,11 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 HFlight provides a window to modify the PW-Link network configuration, allowing you to modify the network's **name**, **password**,**channel** and **for version information**. The specific operation method is to first open the HFlight mobile phone software side menu, click the system button, enter the system settings interface, long press the network settings icon. The operation is shown in the figure:
 
-![](/images/pwlink-net-cfg1.png)
+![](../assets/pwlink-net-cfg1.png)
 
 The specific operation procedure of the PW-Link configuration window is to first click the query button to obtain the network information of the PW-Link module. After the success, the corresponding options can be modified. The operation is shown in the figure:
 
-![](/images/pwlink-net-cfg2.png)
+![pwlink](../assets/pwlink-net-cfg2.png)
 
 > Note: Do not modify the configuration during the flight of the UAV to avoid abnormal communications.
 
