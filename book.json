@@ -3,6 +3,8 @@
   "description": "PW-Link 文档",
   "language": "zh-hans",
   "plugins": [
+    "youtube",
+    "language-picker",
     "-sharing",
     "-highlight",
     "-livereload",
