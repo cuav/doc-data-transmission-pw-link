@@ -46,7 +46,7 @@ At present, PW-Link data transmission module is divided into ** built-in antenna
 
 PW-Link overall communication method as shown in figure:
 
-![](../assets/pwlink-connected-description.png)
+![pwlink connected](../assets/pwlink-connected-description.png)
 
 > If there is an error in the product tutorial, please give feedback. Author's E-mail: xiepeng@cuav.net
 
