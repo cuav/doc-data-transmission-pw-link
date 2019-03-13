@@ -4,9 +4,9 @@
 
 ---
 
-### ![pw-link](../assets/pw-link2.png)
+![pw link2](../assets/pw-link2.png)
 
-How to connect to the flight control?
+### How to connect to the flight control?
 
 ---
 
