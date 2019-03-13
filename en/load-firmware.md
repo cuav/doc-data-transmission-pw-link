@@ -10,7 +10,7 @@ At present, no online update program is provided for the PW-Link module, requiri
 
 Find the file with the same name on the right and click Open to set the file path. (Note that the file path of the green area corresponds to the file name of the right white font)
 
-![](/assets/wtr111.png)
+![wtr111](../assets/wtr111.png)
 
 3. Click on the **Operation** option and use the ** burn line ** to connect the TTL board to your computer's usb (you can make a custom burn line to see the ttl board and the logo on the back of the pw\_link, and connect the gnd and 5v accordingly. , rx, tx cross-connect) Select the corresponding port \ (port can be viewed in the My Computer "device manager" port), hold down the data recovery module recovery button and power module, click the ** Flash** button;
 
