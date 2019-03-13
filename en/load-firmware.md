@@ -4,7 +4,7 @@ At present, no online update program is provided for the PW-Link module, requiri
 
 1. Run the burning software ESP8266Flasher.exe, click the **Advanced** option, modify the corresponding options as shown in the figure;
 
-![](/images/pwlink-update-advanced.png)
+![pwlink advanced](../assets/pwlink-update-advanced.png)
 
 2. Click on the **Config** option and click the right triangle to change the file name to the following image. Look at the green font area and click on the triangle icon in the area.
 
