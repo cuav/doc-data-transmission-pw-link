@@ -19,7 +19,7 @@
 
 ---
 
-**HFlight** 安卓手机地面站是 **雷讯（CUAV）** 官方推广的手机地面站，完美地兼容本公司所有产品，欢迎广大模友下载使用。软件下载链接：[HFlight](http://fw.cuav.net/apk/HFlight.apk)。
+**HFlight** 安卓手机地面站是 **雷迅（CUAV）** 官方推广的手机地面站，完美地兼容本公司所有产品，欢迎广大模友下载使用。软件下载链接：[HFlight](http://fw.cuav.net/apk/HFlight.apk)。
 
 对于 PW-Link 无线数传模块，HFlight 获取和显示飞控信息的步骤如下：
 
